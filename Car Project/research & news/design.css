@@ -1,0 +1,15 @@
+body{
+background-color:black;
+}
+
+a:link{
+padding:14px;
+background-color:orange;
+text-decoration:none;
+align:right;
+}
+
+a:hover{
+background-color:magenta;
+text-decoration:underline;
+}
